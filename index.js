@@ -65,7 +65,7 @@ function buttonAnimation(key){
 
     setTimeout(function(){
         document.querySelector("."+key).classList.remove("pressed");
-    },100);   
+    },100);
 }
 
 
